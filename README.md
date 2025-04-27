@@ -23,7 +23,8 @@ Documentation interactive de l'API avec Swagger (drf-yasg)
 #  Installation & exécution
 
 # 1. Cloner le projet
-git clone https://github.com/votre-utilisateur/recrutement_api.git
+git clone  https://github.com/aissatou00/projet_recrument.git
+
 cd recrutement_api
 
 # 2. Création et activation de l'environnement virtuel
@@ -90,7 +91,7 @@ recruteur = Recruteur.objects.create(
 
 # Diagramme UML
 - Diagramme UML des modèles Candidat et Recruteur montrant les relations
-
+disponible dans le dossier uml_recrutement
 
 
 # Commandes Git
